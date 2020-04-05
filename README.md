@@ -1,3 +1,3 @@
 # git-practice
  - feature-B
- -feature-A
+ - feature-A
