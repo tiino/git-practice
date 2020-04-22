@@ -2,6 +2,10 @@ org:
   value1: 1
   value2: 2
   value3: 3
+feature-1:
+  value1: Hoo
+  value2: Foo
+  value3: Poo
 feature-2:
   value1: Hoge
   value2: Fuga
