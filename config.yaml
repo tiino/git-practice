@@ -2,3 +2,7 @@ org:
   value1: 1
   value2: 2
   value3: 3
+feature-2:
+  value1: Hoge
+  value2: Fuga
+  value3: Poge
