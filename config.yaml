@@ -6,3 +6,7 @@ feature-1:
   value1: Hoo
   value2: Foo
   value3: Poo
+feature-2:
+  value1: Hoge
+  value2: Fuga
+  value3: Poge
